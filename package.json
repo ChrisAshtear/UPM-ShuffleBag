@@ -1,0 +1,23 @@
+{
+  "name": "com.chrisash.shufflebag",
+  "displayName": "Shufflebag",
+  "version": "0.0.2",
+  "unity": "2020.3",
+  "description": "Better Randomness",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "upm",
+    "chrisash",
+    "utility"
+  ],
+  "homepage": "https://github.com/ChrisAshtear/UPM-ShuffleBag.git",
+  "bugs": {
+    "url": "https://github.com/ChrisAshtear/UPM-ShuffleBag/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAshtear/UPM-ShuffleBag.git"
+  },
+  "author": "Chris Ashtear (https://sargassosailor.com), Esko Luontola"
+}
